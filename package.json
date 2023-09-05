@@ -87,6 +87,7 @@
     "jest-environment-jsdom": "^29.6.2",
     "jsconfig-paths-jest-mapper": "^1.0.0",
     "lint-staged": "^13.2.3",
+    "lodash": "^4.17.21",
     "prettier": "^3.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
